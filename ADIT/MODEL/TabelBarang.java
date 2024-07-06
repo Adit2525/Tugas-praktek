@@ -9,7 +9,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author sintia
+ * @author msi
  */
 public class TabelBarang extends AbstractTableModel{
 
