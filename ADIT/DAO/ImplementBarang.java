@@ -9,7 +9,7 @@ import ADIT.MODEL.Barang;
 
 /**
  *
- * @author sintia
+ * @author msi
  */
 public interface ImplementBarang {
     public void insert(Barang b);
