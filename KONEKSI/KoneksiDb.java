@@ -11,7 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author sintia
+ * @author msi
  */
 public class KoneksiDb {
     static Connection con;
