@@ -15,7 +15,7 @@ import view.FormBarang;
 
 /**
  *
- * @author sintia
+ * @author msi
  */
 public class BarangController {
     FormBarang frame;
