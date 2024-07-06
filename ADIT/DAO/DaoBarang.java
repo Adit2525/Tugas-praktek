@@ -18,7 +18,8 @@ import ADIT.MODEL.Barang;
 
 /**
  *
- * @author sintia
+ * @author msi
+ 
  */
 public class DaoBarang implements ImplementBarang{
 
