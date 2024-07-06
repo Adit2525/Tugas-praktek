@@ -6,7 +6,7 @@ package ADIT.MODEL;
 
 /**
  *
- * @author sintia
+ * @author msi
  */
 public class Barang {
     private int no;
